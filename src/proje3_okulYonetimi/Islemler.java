@@ -60,7 +60,7 @@ public class Islemler {
                 break;
             case "Q":	cikis();
                 break;
-            default: 	System.out.println("Yanlış Giriş");
+            default: 	System.out.println("Yanlis Giris");
                 islemMenusu();
                 break;
         }
